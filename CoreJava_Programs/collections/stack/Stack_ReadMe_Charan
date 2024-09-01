@@ -1,0 +1,4 @@
+Stack :
+   Stack is First In Last Out(FILO).
+   Stack methods are push(), pop(), search(), clear().
+   Default capacity of Stack is 10.

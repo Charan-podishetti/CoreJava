@@ -1,0 +1,5 @@
+Serialization is converting of object data into byte streams.
+De-Serialization is converting of byte streams into object data.
+The serialized data is stored inside Data Base, transferred over network.
+If we want to stop serialization of some data we use Transient keyword and default value is used for these type of transient data.
+Class should implements Serializable interface.

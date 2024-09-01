@@ -1,0 +1,7 @@
+Abstract is a keyword.
+Abstract class having abstract methods and concrete(implementation) methods.
+If any class having one abstract method that class should be declared as a abstract otherwise that class will be showing compile time error.
+If any class extends abstract class that class should be override all abstract methods otherwise the class will be showing compile time error.
+We cannot create object to abstract class, but we can create reference to it.
+Abstract class constructor will be called automatically during object class creation.
+Abstract class constructor can be created but it will be called when we create sub class object. 

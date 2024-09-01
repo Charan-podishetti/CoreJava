@@ -1,0 +1,15 @@
+OOPS - Object Oriented Programming System
+It is a paradigm which follows bottom to approach.
+In daily life we use many objects, so OOPS solve many real time problems.
+OOPS contains :
+	- Class : It is blue print to create objects and logical entity.
+	- Object : It is an instance of a class and real world entity.
+Object is combination of attributes and methods.
+	- Attributes : It is used to define the state of objects. 
+	- Methods : It is used to define the behaviour of objects.
+	
+OOPS has 4 pillars 
+	- Inheritance
+	- Polymorphism
+	- Abstraction
+	- Encapsulation

@@ -1,0 +1,8 @@
+Thread is a light weight sub process.
+Threads share same memory area.
+Multi threading is where multiple threads will perform operations simultaneously by reducing CPU idle time.
+Synchronization is used to solve data inconsistency problem.
+Synchronization is control of access of multiple threads through any shared resource(object), so each thread will perform operations linearly one after other. 
+We can achieve synchronization in 2 ways : 
+ - Method level
+ - Block level 

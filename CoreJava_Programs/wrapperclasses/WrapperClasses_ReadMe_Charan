@@ -1,0 +1,6 @@
+Wrapping of primitive types to convert into objects
+Collection framework only supports objects so we need wrapper classes
+Wrapper class objects are synchronized and serializable
+These class objects have their own methods
+Auto boxing is conversion of primitive types into objects
+Unboxing is conversion of objects into primitive types

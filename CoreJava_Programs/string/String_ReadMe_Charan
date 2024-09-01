@@ -1,0 +1,50 @@
+In java a string is a sequence of characters, often used to represent text.
+String are objects in java & instance of string class which is part of java.lang.package.
+Key features of string in java
+	a)Immutable : Once a string object is created it cannot be changed.
+	b)Any modification to string creates a new string object
+Java optimizes memory usage by storing strings in a special way area of memory called “String Constant Pool”.
+If two strings have same value and are created without using new keyword they will refer to same object in string pool.
+Methods in String class are non-synchronized.
+String methods are : 
+	length()
+	trim()
+	toLowerCase()
+	toUpperCase()
+	append()
+	indexOf()
+	strip()
+String contains() method is used to check whether substring is present or not.
+String replace() method is used to replace other values
+ix.String reverse() method is used to reverse the string
+String concat() method is used to reverse the string
+Split method is used to split the sentence into words.
+	- Using for loop
+	- Using for each loop
+We can create string using in two ways :
+	- Using String literals
+	- Using new keyword
+xiiiIn string
+	- equals() is used to compare the content
+	- == is used to compare the memory of the two objects
+StringBuffer :
+   StringBuffer is a final class.
+   StringBuffer are mutable.
+   String class consists of methods.
+   Methods in StringBuffer class are synchronized.
+StringBuffer methods :  
+	append() - used to combine the two strings into one String
+	insert() - to insert the string into the present string based on the index value
+	reverse() - to reverse the string ,replace-replace the string with other string based on starting index and ending index
+	delete() - to delete the sub string or string from the existing string based on starting index and ending index.
+	
+StringBuilder :
+   String Builder is a final class.
+   StringBuilder are mutable.
+   StringBuilder class consists of methods.
+   Methods in StringBuilder class are synchronized.
+StringBuilder methods :
+	append() - used to combine the two strings into one String
+	insert() - to insert the string into the present string based on the index value
+	reverse() - to reverse the string ,replace-replace the string with other string based on starting index and ending index
+	delete() - to delete the sub string or string from the existing string based on starting index and ending index.

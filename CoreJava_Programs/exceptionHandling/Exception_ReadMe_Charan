@@ -1,0 +1,32 @@
+Exception handling is a mechanism.
+Exceptions are in built mechanisms of java.
+All exception are executed while abnormal conditions only.
+It wont execute any exceptions in normal flow.
+Once any exceptions are occurring in java code then remaining lines of code is unreachable.  
+Java.lang.Throwable is super class for exceptions and errors.
+There are 2 types of exceptions 
+	I. Checked Exceptions
+	II. Unchecked Exceptions
+All checked exceptions are compile time exceptions.
+All Unchecked exceptions are run time exceptions.
+There are 5 keywords in Exception handling
+ 	I. try
+	II. catch
+	III. finally
+	IV. throws
+	V. throw
+Try is for business logic.
+Catch is for handling exceptions.
+Finally is block if exception occurs or not finally block will be executed.
+Throws an exception is transferred from method to method.
+Throw is for runtime exceptions will call predefined exception classes and user defined exceptions..
+Try followed by either catch or final block.
+We should follow exception hierarchy.
+We can create our own user defined exceptions.
+Our own exceptions extend Exception or Runtime exceptions.
+All exception classes into java.lang package.
+If there are 2 exceptions in class developer should handle 1st exception then 2nd exception will be handled next.
+Errors are not in developer control.
+We can declare multiple exceptions with throws keyword.
+We can also use multi catch exception where we put multiple exceptions in catch with OR or pipe symbol.
+We can use try inside try called as nested try block.

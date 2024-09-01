@@ -1,0 +1,6 @@
+Java I/O (Input and Output) is used to process the input and produce the output. 
+Java uses the concept of a stream to make I/O operation fast.
+File class is used to open a file.
+FileInputStream is used to read data from file.
+FileOuputStream is used to write data to file.
+We have Buffered Reader which reduces the no of disk operations, by storing data in buffer then followed by writing to disk or reading from disk.

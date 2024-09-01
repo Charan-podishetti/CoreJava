@@ -1,0 +1,12 @@
+Constructor name should be equal to class name.
+There are 2 types of constructor
+i.Default
+ii.Parameterized
+Constructors are called during object creation.
+Constructors are used for initialization of objects.
+Constructors doesn’t have return type not even void, if we define return type for constructors it will act as method.
+Every class will have default constructor.
+this & super are used.
+Also have other type of constructor called Copy Constructor.
+Constructors can be overloaded, but cannot be overridden
+Constructor chaining - this() is used to call current class constructor, super() is used to call super class constructor

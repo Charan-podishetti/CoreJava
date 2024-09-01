@@ -1,0 +1,7 @@
+Final is a keyword.
+We can declare Variables, Methods, Classes as final.
+Final variables cannot be changed.
+Final methods cannot be overridden.
+Final classes cannot be extended.
+Final variables can be initialized through constructor or object creation.
+Final variable can be accessed through HAS-A relation ship.

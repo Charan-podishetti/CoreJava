@@ -1,0 +1,7 @@
+Static is a keyword.
+We can declare variables and methods as static.
+Static variables and methods are called by using ClassName.method and Classname.Variables.
+Static method can access Static variables and Static methods.
+Static method cannot access Non static variables and Non static Methods.
+Non static method can access Static variables and Static methods.
+Static block is initialized first during class loading.

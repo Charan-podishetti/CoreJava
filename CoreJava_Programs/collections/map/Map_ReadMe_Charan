@@ -1,0 +1,16 @@
+Hash Map
+	It stores in key and value pair.
+	It allows one null key and multiple null values.
+	Default capacity of Hash map is 16.
+
+Tree Map
+	It stores in key and value pair.
+	It doesn’t allow null keys however allows multiple null values.
+	Storing and retrieving will be in sorted order(ascending).
+	Default capacity of Tree map is 16.
+	
+Hash Table: 
+	It stores in key and value pair.
+	Hash table is synchronized
+	It doesn’t allow null keys and null values
+	Default capacity of hash table is 11.

@@ -1,0 +1,16 @@
+In general programming we use different concepts like
+ - Control Statements(If, If-Else, Break, Continue, For Loop, While Loop, Do-While Loop)
+ 
+ - Operators are use to perform operations on values 
+ - Operators are of different types :
+ 	- Assignment
+ 	- Arithmetic
+ 	- Logical
+ 	- Bitwise
+ 	- Relational
+ 	- Conditional/Ternary
+ 	
+ - Data types = As java is static language type checking is done during compile time.
+   Data types are of 2 types :
+ 	- Primitive (byte, char, short, int, float, long, double)
+ 	- NonPrimitive (String, Class, Interface, Object)

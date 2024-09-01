@@ -1,0 +1,11 @@
+Interface is keyword.
+We can declare method signature only but not implementation.
+By default all interface methods are abstract.
+If any class implements interface then class should be override all interface methods otherwise the class will be showing compile time error.
+We cannot create object to interface but we can create reference to it.
+We can declare variables inside interface by default they are public static final.
+Java will support multiple inheritance through interfaces.
+One class can implement interfaces.
+One interface can extend interfaces.
+Interface can be created with out methods, these are called as Marker Interface.
+Examples of Marker Interface are cloneable, serializable.

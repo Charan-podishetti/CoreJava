@@ -1,0 +1,23 @@
+Priority Queue :
+	It is an interface
+	Queue follows First In First Out(FIFO)
+	We can add elements from tail and remove elements from head.
+	During retrieval it compares with next element and smaller one will be retrieved.
+	Default size of Queue is 10.
+	Methods used in queue are offer(), poll(), peek() etc.
+	Default capacity of Priority Queue is 11.
+	
+Array Deque :
+	In Array Deque we can insert elements and remove elements from head and tail.
+	It follows FIFO principle.
+	Methods used in Array Deque are offer(), offerFirst(), offerLast(), poll(), pollFirst(), pollLast(), peek(), peekFirst(), peekLast().
+	Default capacity of Deque is 16.
+	
+Linked List(Implements Deque) :
+	It is a class which implements Deque interface
+	Internally it uses double linked list
+	Size is growable
+	It supports different data types
+	It contains methods
+	Easy for insertion and deletion operations
+	We can remove elements from linked list using remove() method
