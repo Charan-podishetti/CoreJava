@@ -1,0 +1,8 @@
+It is a mechanism.
+Bean is lightweight.
+We achieve tightly encapsulation through beans. 
+Beans are used to maintain the session.
+Important features of bean are :-
+i)All attributes are private
+ii)All getters/setters methods are public
+iii)Bean class implements Serializable
